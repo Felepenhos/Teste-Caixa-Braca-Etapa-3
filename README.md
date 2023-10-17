@@ -5,7 +5,7 @@ teste estrutural ou teste de caixa de vidro tem como foco testes que são aplica
 dos sistemas. Ao contrário do que ocorre nos testes de caixa-preta, a aplicação dos testes de caixa-branca
 fornece resultados que possibilitam uma análise diretamente relacionada ao código-fonte do sistema em
 
-/*   */
+ /*  Método para estabelecer uma conexão com o banco de dados */
 package login;
 import java.sql.Connection; 
 import java.sql.DriverManager;
